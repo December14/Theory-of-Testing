@@ -6,4 +6,5 @@ Specify which test cases should be included in the regression set that manual te
 
 ### Task : 
 Determine which type of testing each test belongs to
+### Solution :
 #### [Types of Testing](https://docs.google.com/spreadsheets/d/1fmRz2VhurxTBzFJi2sk9-XmNkhDsOmufPeUvaxklnt8/edit?usp=sharing)
